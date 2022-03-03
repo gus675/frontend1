@@ -1,0 +1,67 @@
+
+.centrar{
+    margin: auto;
+    display: block;
+}
+
+.fondoGris{
+    background-color: rgb(240, 227, 227);
+
+
+}
+
+
+
+body{
+    background-position: right top;
+}
+
+h1{
+    color: rgb(101, 101, 167);
+    background-color: rgb(201, 193, 193);
+    background-size: 130px;
+    font-family: serif;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+h2{
+    color: rgb(101, 101, 167);
+    background-color: rgb(201, 193, 193);
+    background-size: 6px;
+    font-family: serif;
+    font-size: 20px;
+    
+}
+    
+h3{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(57, 93, 148);
+
+}
+#bolita {
+    list-style: disc;
+
+}
+
+ul{
+    list-style-type: none;
+    margin: 60px;
+    padding: 0px;
+
+
+}
+
+UL{
+    font-weight: bold;
+}
+
+#itaLis{
+
+    font-weight: italic;
+
+}
+    
+    
