@@ -1,0 +1,64 @@
+
+.centrar{
+    margin: auto;
+    display: block;
+}
+
+body{
+    background-color: rgb(88, 148, 197);
+}
+
+header{
+    background: url(Banner.jpeg)no-repeat;
+    align-items: center;
+}
+
+h1{
+    color:rgb(56, 52, 52);
+    background-color: rgb(68, 133, 185);
+    background-size: 130px;
+    font-family: helvetica;
+    font-size: 35px;
+    text-align: center;
+
+}
+
+h2{
+    color: rgb(56, 52, 52);
+    background-color: rgb(201, 193, 193);
+    background-size: 10px;
+    font-family: helvetica;
+    font-size: 23px;
+    
+}
+    
+h3{
+    background-color: rgb(80, 70, 172);
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    font-family: Helvetica;
+    text-align: center;
+}
+
+#bolita {
+    list-style: disc;
+
+}
+
+ul{
+    font-family: Helvetica;
+    font-size: 25px;
+    list-style-type: none;
+    margin: 60px;
+    padding: 0px;
+}
+ p{
+    color: aliceblue;
+ }
+
+ footer{
+    font-size: 20px;
+    background-color: rgb(68, 133, 185);
+    text-align: center;
+ }
+    
